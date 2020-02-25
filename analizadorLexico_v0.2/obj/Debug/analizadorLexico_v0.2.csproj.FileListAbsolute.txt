@@ -1,0 +1,30 @@
+E:\6o_Semestre\traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.csprojAssemblyReference.cache
+E:\6o_Semestre\traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0._2.Form1.resources
+E:\6o_Semestre\traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0._2.Properties.Resources.resources
+E:\6o_Semestre\traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.csproj.GenerateResource.cache
+E:\6o_Semestre\traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.csproj.CoreCompileInputs.cache
+E:\6o_Semestre\traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\bin\Debug\analizadorLexico_v0.2.exe.config
+E:\6o_Semestre\traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\bin\Debug\analizadorLexico_v0.2.exe
+E:\6o_Semestre\traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\bin\Debug\analizadorLexico_v0.2.pdb
+E:\6o_Semestre\traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.exe
+E:\6o_Semestre\traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.pdb
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.csprojAssemblyReference.cache
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0._2.Form1.resources
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0._2.Properties.Resources.resources
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.csproj.GenerateResource.cache
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.csproj.CoreCompileInputs.cache
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.exe
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.pdb
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\bin\Debug\analizadorLexico_v0.2.exe.config
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\bin\Debug\analizadorLexico_v0.2.exe
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v0.2\analizadorLexico_v0.2\bin\Debug\analizadorLexico_v0.2.pdb
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v1.1\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.csprojAssemblyReference.cache
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v1.1\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0._2.Form1.resources
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v1.1\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0._2.Properties.Resources.resources
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v1.1\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.csproj.GenerateResource.cache
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v1.1\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.csproj.CoreCompileInputs.cache
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v1.1\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.exe
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v1.1\analizadorLexico_v0.2\obj\Debug\analizadorLexico_v0.2.pdb
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v1.1\analizadorLexico_v0.2\bin\Debug\analizadorLexico_v0.2.exe.config
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v1.1\analizadorLexico_v0.2\bin\Debug\analizadorLexico_v0.2.exe
+E:\6o_Semestre\sem traductores 2\proyecto\analizadorLexico_v1.1\analizadorLexico_v0.2\bin\Debug\analizadorLexico_v0.2.pdb
